@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\xedua\OneDrive\Documentos\Desarrollo\.NET\ProyectoTarjetas 3.1\BackEnd\BackEnd\obj\Release\netcoreapp3.1\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\xedua\OneDrive\Documentos\Desarrollo\.NET\ProyectoTarjetas 3.1\BackEnd\BackEnd\obj\Release\netcoreapp3.1\PubTmp\EFSQLScripts\BackEnd.AplicationDbContext.sql" />
+</sitemanifest>
